@@ -18,7 +18,7 @@ To run the API, you need to have the following prerequisites:
 
 The steps to run the API are:
 
-1. Clone the repository from GitHub using the command `git clone https://github.com/yourusername/doctor-patient-api.git`.
+1. Clone the repository from GitHub using the command `git clone https://github.com/Rishabh-Kumar01/Doctor-Paitent-Repository.git`.
 2. Open the project in your preferred IDE and update the application.properties file with your MySQL database credentials and other configurations.
 3. Run the command `mvn clean install` to build the project and run the tests.
 4. Run the command `mvn spring-boot:run` to start the application.
